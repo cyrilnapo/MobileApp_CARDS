@@ -32937,9 +32937,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pt63blc\\Documents\\GitHub\\MobileApp_CARDS\\MauiApp1\\MauiApp1.csproj",
-      "projectName": "MauiApp1",
-      "projectPath": "C:\\Users\\pt63blc\\Documents\\GitHub\\MobileApp_CARDS\\MauiApp1\\MauiApp1.csproj",
+      "projectUniqueName": "C:\\Users\\pt63blc\\Documents\\GitHub\\MobileApp_CARDS\\MauiApp1\\app_quizz.csproj",
+      "projectName": "app_quizz",
+      "projectPath": "C:\\Users\\pt63blc\\Documents\\GitHub\\MobileApp_CARDS\\MauiApp1\\app_quizz.csproj",
       "packagesPath": "C:\\Users\\pt63blc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pt63blc\\Documents\\GitHub\\MobileApp_CARDS\\MauiApp1\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ZDforl496X8wLon0dQrmQ2mxjTVej8gUO27WXAs5pZ8ijqWGruG5jKnZL72S5InK8vTiRhjAIfdNrpOkWOGGQ==",
+  "dgSpecHash": "SaxSqUzsvnPu1NtWCyS+AD0KYCZl+ToK3ft2qAywfZMPaqulwelX6j+kLHLXKYMd+ST0XLF1P1afcgp30rHeIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pt63blc\\Documents\\GitHub\\MobileApp_CARDS\\MauiApp1\\MauiApp1.csproj",
+  "projectFilePath": "C:\\Users\\pt63blc\\Documents\\GitHub\\MobileApp_CARDS\\MauiApp1\\app_quizz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pt63blc\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\pt63blc\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
