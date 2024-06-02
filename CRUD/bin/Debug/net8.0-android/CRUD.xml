@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CRUD</name>
+    </assembly>
+    <members>
+        <member name="T:CRUD.ViewModels.CrudViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:CRUD.ViewModels.CrudViewModel.Wishes">
+            <inheritdoc cref="F:CRUD.ViewModels.CrudViewModel.wishes"/>
+        </member>
+        <member name="P:CRUD.ViewModels.CrudViewModel.WishEntry">
+            <inheritdoc cref="F:CRUD.ViewModels.CrudViewModel.wishEntry"/>
+        </member>
+        <member name="F:CRUD.ViewModels.CrudViewModel.addWishCommand">
+            <summary>The backing field for <see cref="P:CRUD.ViewModels.CrudViewModel.AddWishCommand"/>.</summary>
+        </member>
+        <member name="P:CRUD.ViewModels.CrudViewModel.AddWishCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:CRUD.ViewModels.CrudViewModel.AddWish(System.String)"/>.</summary>
+        </member>
+        <member name="F:CRUD.ViewModels.CrudViewModel.editCommand">
+            <summary>The backing field for <see cref="P:CRUD.ViewModels.CrudViewModel.EditCommand"/>.</summary>
+        </member>
+        <member name="P:CRUD.ViewModels.CrudViewModel.EditCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:CRUD.ViewModels.CrudViewModel.Edit(CRUD.Models.Question)"/>.</summary>
+        </member>
+        <member name="F:CRUD.ViewModels.CrudViewModel.deleteCommand">
+            <summary>The backing field for <see cref="P:CRUD.ViewModels.CrudViewModel.DeleteCommand"/>.</summary>
+        </member>
+        <member name="P:CRUD.ViewModels.CrudViewModel.DeleteCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:CRUD.ViewModels.CrudViewModel.Delete(CRUD.Models.Question)"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Wishes">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Wishes" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.WishEntry">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "WishEntry" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Wishes">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Wishes" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.WishEntry">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "WishEntry" generated properties.</summary>
+        </member>
+    </members>
+</doc>
